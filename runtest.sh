@@ -1,0 +1,1 @@
+libsvm-3.22/svm-predict run_fileQues_one_Windowed_vector.txt model/xxxxxmodel2 model/testOut
